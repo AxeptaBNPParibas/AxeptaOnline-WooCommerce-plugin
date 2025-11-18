@@ -1,5 +1,6 @@
 
-Axepta Online – WooCommerce Payment Gateway
+**Axepta Online – WooCommerce Payment Gateway**
+
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![PHP](https://img.shields.io/badge/PHP-%3E=8.2-blue)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-10.0%2B-purple)
@@ -81,7 +82,7 @@ Verification steps are available on the release page.
 
 -------------------------------------------------------------
 
-Axepta Online – Module de paiement WooCommerce
+**Axepta Online – Module de paiement WooCommerce**
 
 
 
@@ -161,3 +162,4 @@ Les étapes de vérification sont disponibles sur la page de release.
 📞 Support
 
 📧 assistance.ecommerce@bnpparibas.com
+
