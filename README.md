@@ -2,9 +2,8 @@
 **Axepta Online – WooCommerce Payment Gateway**
 
 ![License](https://img.shields.io/badge/License-MIT-green)
-![PHP](https://img.shields.io/badge/PHP-%3E=8.2-blue)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-10.0%2B-purple)
-![WordPress](https://img.shields.io/badge/WordPress-6.8%2B-blue)
+![PHP](https://img.shields.io/badge/PHP-%3E=7.1-blue)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-5.7%2B-purple)
 [![Release](https://img.shields.io/github/v/release/AxeptaBNPParibas/AxeptaOnline-WooCommerce-plugin)](../../releases/latest)
 ![Downloads](https://img.shields.io/github/downloads/AxeptaBNPParibas/AxeptaOnline-WooCommerce-plugin/total)
 
@@ -87,9 +86,8 @@ Verification steps are available on the release page.
 
 
 ![License](https://img.shields.io/badge/License-MIT-green)
-![PHP](https://img.shields.io/badge/PHP-%3E=8.2-blue)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-10.0%2B-purple)
-![WordPress](https://img.shields.io/badge/WordPress-6.8%2B-blue)
+![PHP](https://img.shields.io/badge/PHP-%3E=7.1-blue)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-5.7%2B-purple)
 [![Release](https://img.shields.io/github/v/release/AxeptaBNPParibas/AxeptaOnline-WooCommerce-plugin)](../../releases/latest)
 ![Downloads](https://img.shields.io/github/downloads/AxeptaBNPParibas/AxeptaOnline-WooCommerce-plugin/total)
 
@@ -162,4 +160,5 @@ Les étapes de vérification sont disponibles sur la page de release.
 📞 Support
 
 📧 assistance.ecommerce@bnpparibas.com
+
 
