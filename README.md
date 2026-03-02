@@ -39,6 +39,8 @@ Manual capture
 
 Delayed capture
 
+Recurring payment
+
 📦 Installation
 Method 1 — WordPress Admin
 
@@ -122,6 +124,8 @@ Capture manuelle
 
 Capture différée
 
+paiement recurrent
+
 📦 Installation
 Méthode 1 — Administration WordPress
 
@@ -160,6 +164,7 @@ Les étapes de vérification sont disponibles sur la page de release.
 📞 Support
 
 📧 assistance.ecommerce@bnpparibas.com
+
 
 
 
