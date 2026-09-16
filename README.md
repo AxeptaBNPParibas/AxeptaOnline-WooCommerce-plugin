@@ -4,7 +4,7 @@ Readme · MD
  
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![PHP](https://img.shields.io/badge/PHP-%3E=7.1-blue)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-5.7.0%20→%2010.9.x-purple)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-5.7.0%20→%2011.x-purple)
 [![Release](https://img.shields.io/github/v/release/AxeptaBNPParibas/AxeptaOnline-WooCommerce-plugin)](../../releases/latest)
 ![Downloads](https://img.shields.io/github/downloads/AxeptaBNPParibas/AxeptaOnline-WooCommerce-plugin/total)
  
@@ -67,7 +67,7 @@ Les étapes de vérification sont disponibles sur la page de release.
  
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![PHP](https://img.shields.io/badge/PHP-%3E=7.1-blue)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-5.7.0%20%E2%86%92%2010.9.x-purple)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-5.7.0%20%E2%86%92%2011.x-purple)
 [![Release](https://img.shields.io/github/v/release/AxeptaBNPParibas/AxeptaOnline-WooCommerce-plugin)](../../releases/latest)
 ![Downloads](https://img.shields.io/github/downloads/AxeptaBNPParibas/AxeptaOnline-WooCommerce-plugin/total)
  
