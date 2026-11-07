@@ -22,6 +22,7 @@ Il s'intègre facilement dans WooCommerce et prend en charge un ensemble complet
 - Apple Pay (sur la page de paiement)
 - Google Pay (sur la page de paiement)
 - PayPal
+- Bancontact (disponible pour les clients Axepta BNP Paribas Benelux)
 ## ⚙️ Fonctionnalités
  
 - Capture automatique
@@ -87,6 +88,7 @@ It integrates seamlessly with WooCommerce and supports a complete set of payment
 - Apple Pay (on checkout page)
 - Google Pay (on checkout page)
 - PayPal
+- Bancontact (available for Axepta BNP PARIBAS Benelux Clients)
 ## ⚙️ Features
  
 - Automatic capture
