@@ -59,7 +59,9 @@ Les étapes de vérification sont disponibles sur la page de release.
  
 ## 📞 Support
  
-📧 assistance.ecommerce@bnpparibas.com
+📧 Benelux : support@axepta.be  
+ 
+📧 France: assistance.ecommerce@bnpparibas.com
  
 ---
  
@@ -122,5 +124,6 @@ Verification steps are available on the release page.
  
 ## 📞 Support
  
-📧 assistance.ecommerce@bnpparibas.com
+📧 Benelux : support@axepta.be  
  
+📧 France: assistance.ecommerce@bnpparibas.com
